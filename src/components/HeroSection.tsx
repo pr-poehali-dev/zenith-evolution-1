@@ -24,9 +24,9 @@ export default function HeroSection() {
   const navItems = [
     { name: "Главная", href: "#hero" },
     { name: "О нас", href: "#mission" },
-    { name: "Коллекции", href: "#community" },
+    { name: "Работы", href: "#gallery" },
     { name: "Отзывы", href: "#testimonials" },
-    { name: "Заказать", href: "#join" },
+    { name: "Заказать", href: "#order" },
   ]
 
   // Navigation handlers
@@ -117,7 +117,7 @@ export default function HeroSection() {
           <LiquidButton
             size="xxl"
             className="font-semibold text-lg tracking-wide"
-            onClick={() => scrollToSection("#join")}
+            onClick={() => scrollToSection("#order")}
           >
             Сделать заказ
           </LiquidButton>
