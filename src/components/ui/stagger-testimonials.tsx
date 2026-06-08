@@ -10,142 +10,142 @@ const testimonials = [
   {
     tempId: 0,
     testimonial:
-      "Stride Collective изменил мою жизнь. От попыток пробежать 5 минут до первого марафона — это сообщество верило в меня, когда я сам в себя не верил.",
-    by: "Сергей Иванов, марафонец",
-    imgSrc: "https://api.dicebear.com/7.x/initials/svg?seed=SergeyIvanov&backgroundColor=3b82f6&textColor=ffffff",
+      "Заказывала сумку с розами и готическим орнаментом — получила шедевр. Мастер учёл каждую мелочь, которую я описала. Ношу её уже полгода и до сих пор получаю комплименты на улице.",
+    by: "Анастасия М., Москва",
+    imgSrc: "https://api.dicebear.com/7.x/initials/svg?seed=AnastasiyaM&backgroundColor=7c3aed&textColor=ffffff",
   },
   {
     tempId: 1,
     testimonial:
-      "Я боялась присоединиться к беговой группе, но Stride Collective встретил меня с распростертыми объятиями. Теперь у меня друзья на всю жизнь и уверенность достигать любых целей.",
-    by: "Марина Петрова, трейлраннер",
-    imgSrc: "https://api.dicebear.com/7.x/initials/svg?seed=MarinaPetrova&backgroundColor=10b981&textColor=ffffff",
+      "Хотел готическую сумку через плечо с черепами и цепями — не верил, что найду что-то достойное. Dark Craft сделали именно то, что я просил. Качество кожи отличное, швы идеальные.",
+    by: "Виктор Г., Санкт-Петербург",
+    imgSrc: "https://api.dicebear.com/7.x/initials/svg?seed=ViktorG&backgroundColor=1e293b&textColor=ffffff",
   },
   {
     tempId: 2,
     testimonial:
-      "Энергетика на пробежках Stride Collective заразительна. Быстрый ты или медленный — все болеют за тебя. Здесь не соревнование, здесь сообщество.",
-    by: "Анна Козлова, любитель 5К",
-    imgSrc: "https://api.dicebear.com/7.x/initials/svg?seed=AnnaKozlova&backgroundColor=8b5cf6&textColor=ffffff",
+      "Мне нужна была маленькая женская сумочка с тиснением в стиле темной романтики. Мастер предложил несколько вариантов эскизов, выбрала лучший — и не пожалела ни на секунду!",
+    by: "Дарья К., Екатеринбург",
+    imgSrc: "https://api.dicebear.com/7.x/initials/svg?seed=DaryaK&backgroundColor=be185d&textColor=ffffff",
   },
   {
     tempId: 3,
     testimonial:
-      "После лет одиночных пробежек Stride Collective стал для меня открытием. Групповые тренировки помогли выйти на личные рекорды, о которых я и мечтать не мог.",
-    by: "Дмитрий Смирнов, спринтер",
-    imgSrc: "https://api.dicebear.com/7.x/initials/svg?seed=DmitrySmirnov&backgroundColor=ef4444&textColor=ffffff",
+      "Живу в Новосибирске, доставка пришла быстро и в отличной упаковке. Сумка завёрнута в крафтовую бумагу и уложена в красивую коробку. Сразу видно — люди делают это с душой.",
+    by: "Игорь С., Новосибирск",
+    imgSrc: "https://api.dicebear.com/7.x/initials/svg?seed=IgorS&backgroundColor=0f172a&textColor=ffffff",
   },
   {
     tempId: 4,
     testimonial:
-      "Stride Collective научил меня, что бег — это не просто тренировка. Это терапия, дружба и приключение в одном флаконе. Этот клуб спас мое ментальное здоровье.",
-    by: "Елена Новикова, осознанный бегун",
-    imgSrc: "https://api.dicebear.com/7.x/initials/svg?seed=ElenaNovikova&backgroundColor=f59e0b&textColor=ffffff",
+      "Заказывала в подарок подруге — она в восторге. Мастер помог подобрать цвет и размер по фото. Это не просто сумка, это произведение искусства. Рекомендую всем!",
+    by: "Ксения Л., Казань",
+    imgSrc: "https://api.dicebear.com/7.x/initials/svg?seed=KseniyaL&backgroundColor=9333ea&textColor=ffffff",
   },
   {
     tempId: 5,
     testimonial:
-      "От дивана до 10К за 6 месяцев с поддержкой Stride Collective. Они принимают тебя таким, какой ты есть, и помогают понять, куда ты можешь дойти. Настоящая магия.",
-    by: "Алексей Морозов, история успеха",
-    imgSrc: "https://api.dicebear.com/7.x/initials/svg?seed=AlexeyMorozov&backgroundColor=6366f1&textColor=ffffff",
+      "Долго искал мастера для мужской кожаной сумки в тёмном стиле. Везде либо масс-маркет, либо слишком дорого и без индивидуальности. Dark Craft — находка. Сделали именно под мой образ.",
+    by: "Роман В., Краснодар",
+    imgSrc: "https://api.dicebear.com/7.x/initials/svg?seed=RomanV&backgroundColor=292524&textColor=ffffff",
   },
   {
     tempId: 6,
     testimonial:
-      "Рассветные пробежки со Stride Collective — это духовный опыт. Есть что-то мощное в том, чтобы двигаться вместе, пока мир просыпается вокруг нас.",
-    by: "Айгуль Рахимова, рассветный патруль",
-    imgSrc: "https://api.dicebear.com/7.x/initials/svg?seed=AigulRahimova&backgroundColor=ec4899&textColor=ffffff",
+      "Процесс заказа очень приятный — мастер общается, объясняет, присылает фото в процессе работы. Чувствуешь, что сумку делают именно для тебя, а не штампуют на конвейере.",
+    by: "Полина Р., Самара",
+    imgSrc: "https://api.dicebear.com/7.x/initials/svg?seed=PolinaR&backgroundColor=6d28d9&textColor=ffffff",
   },
   {
     tempId: 7,
     testimonial:
-      "Я вступила в Stride Collective после переезда в новый город. Нашла не только беговое племя, но и настоящую семью. Движение здесь — это образ жизни.",
-    by: "Ольга Ким, строитель сообщества",
-    imgSrc: "https://api.dicebear.com/7.x/initials/svg?seed=OlgaKim&backgroundColor=06b6d4&textColor=ffffff",
+      "Была скептически настроена насчёт онлайн-заказа авторской вещи. Но всё прошло идеально: обсудили детали в переписке, оплата без проблем, доставка во Владивосток за 9 дней.",
+    by: "Светлана Н., Владивосток",
+    imgSrc: "https://api.dicebear.com/7.x/initials/svg?seed=SvetlanaN&backgroundColor=a21caf&textColor=ffffff",
   },
   {
     tempId: 8,
     testimonial:
-      "Stride Collective празднует каждую победу, даже самую маленькую. Мой первый километр ощущался как олимпийское золото с этой командой, болеющей за меня.",
-    by: "Наталья Соколова, герой первого км",
-    imgSrc: "https://api.dicebear.com/7.x/initials/svg?seed=NataliyaSokolova&backgroundColor=f97316&textColor=ffffff",
+      "Мужская сумка-мессенджер с готическим узором — ношу каждый день уже год. Кожа не потеряла вид, швы не расходятся. Видно, что материалы и работа высокого класса.",
+    by: "Артём Ф., Ростов-на-Дону",
+    imgSrc: "https://api.dicebear.com/7.x/initials/svg?seed=ArtemF&backgroundColor=18181b&textColor=ffffff",
   },
   {
     tempId: 9,
     testimonial:
-      "Тренировочные планы в Stride Collective невероятные. Я прошел путь от еле добегающего 5К до квалификации на Бостонский марафон всего за два года.",
-    by: "Михаил Волков, Бостонский квалификант",
-    imgSrc: "https://api.dicebear.com/7.x/initials/svg?seed=MikhailVolkov&backgroundColor=84cc16&textColor=ffffff",
+      "Хотела что-то особенное — женскую сумку с элементами темной эстетики, но без перебора. Мастер нашёл идеальный баланс: изящно, стильно, немного мрачно. Именно то, что я описала.",
+    by: "Валерия Т., Тюмень",
+    imgSrc: "https://api.dicebear.com/7.x/initials/svg?seed=ValeriyaT&backgroundColor=5b21b6&textColor=ffffff",
   },
   {
     tempId: 10,
     testimonial:
-      "Что я люблю в Stride Collective — это разнообразие. Бегуны всех возрастов, с разным опытом и способностями объединяются одной страстью.",
-    by: "София Родригес, чемпион разнообразия",
-    imgSrc: "https://api.dicebear.com/7.x/initials/svg?seed=SofiaRodriguez&backgroundColor=a855f7&textColor=ffffff",
+      "Заказывал уже трижды — каждый раз новый дизайн. Мастер помнит мои предпочтения и каждый раз предлагает что-то интересное. Это уже не просто покупка, а творческое сотрудничество.",
+    by: "Никита М., Пермь",
+    imgSrc: "https://api.dicebear.com/7.x/initials/svg?seed=NikitaM&backgroundColor=0c0a09&textColor=ffffff",
   },
   {
     tempId: 11,
     testimonial:
-      "Дисциплина в Stride Collective не имеет равных. Когда знаешь, что твоя беговая семья ждет тебя — выходишь на пробежку несмотря ни на что.",
-    by: "Тимур Асланов, король постоянства",
-    imgSrc: "https://api.dicebear.com/7.x/initials/svg?seed=TimurAslanov&backgroundColor=059669&textColor=ffffff",
+      "Цены адекватные для авторской ручной работы. Я смотрела разные мастерские — здесь лучшее соотношение цены и качества. И подход очень человеческий, без высокомерия.",
+    by: "Татьяна Б., Уфа",
+    imgSrc: "https://api.dicebear.com/7.x/initials/svg?seed=TatyanaB&backgroundColor=86198f&textColor=ffffff",
   },
   {
     tempId: 12,
     testimonial:
-      "Трейловая группа Stride Collective открыла мне самые красивые места, о которых я и не знал. Бег стал моим способом исследовать мир.",
-    by: "Нина Павлова, исследователь троп",
-    imgSrc: "https://api.dicebear.com/7.x/initials/svg?seed=NinaPavlova&backgroundColor=0ea5e9&textColor=ffffff",
+      "Получил сумку — внутри лежала открытка с благодарностью от мастера. Мелочь, но это очень трогательно. Видно, что люди вкладывают в работу не только руки, но и сердце.",
+    by: "Олег К., Воронеж",
+    imgSrc: "https://api.dicebear.com/7.x/initials/svg?seed=OlegK&backgroundColor=1c1917&textColor=ffffff",
   },
   {
     tempId: 13,
     testimonial:
-      "Разговоры после пробежек в Stride Collective ценны не меньше самих пробежек. Мы решаем мировые проблемы километр за километром.",
-    by: "Роман Ким, философ бега",
-    imgSrc: "https://api.dicebear.com/7.x/initials/svg?seed=RomanKim&backgroundColor=dc2626&textColor=ffffff",
+      "Подруга увидела мою сумку и тоже заказала. Теперь мы обе ходим с авторскими изделиями Dark Craft — и каждый раз находятся люди, которые спрашивают, где взяли такую красоту.",
+    by: "Марина Е., Волгоград",
+    imgSrc: "https://api.dicebear.com/7.x/initials/svg?seed=MarinaE&backgroundColor=7e22ce&textColor=ffffff",
   },
   {
     tempId: 14,
     testimonial:
-      "Я никогда не думала, что стану бегуном, но дружелюбный к новичкам подход Stride Collective сделал это возможным. Теперь не представляю жизни без бега.",
-    by: "Екатерина Орлова, позднее цветение",
-    imgSrc: "https://api.dicebear.com/7.x/initials/svg?seed=EkaterinaOrlova&backgroundColor=7c3aed&textColor=ffffff",
+      "Сделал заказ из Хабаровска — думал, будут проблемы с доставкой. Всё пришло целым, упаковано на совесть. Сумка превзошла ожидания. Уже думаю над следующим заказом.",
+    by: "Денис Ш., Хабаровск",
+    imgSrc: "https://api.dicebear.com/7.x/initials/svg?seed=DenisS&backgroundColor=0f0f0f&textColor=ffffff",
   },
   {
     tempId: 15,
     testimonial:
-      "Поддержка при травмах в Stride Collective потрясающая. Когда я выбыл, они поддерживали мою мотивацию и помогли вернуться сильнее.",
-    by: "Даниил Пак, история возвращения",
-    imgSrc: "https://api.dicebear.com/7.x/initials/svg?seed=DaniilPak&backgroundColor=ea580c&textColor=ffffff",
+      "Женская сумка через плечо с тёмными цветами и серебряной фурнитурой — просто мечта. Мастер предложил добавить внутренний карман с застёжкой. Не просила, но оценила заботу.",
+    by: "Юлия П., Нижний Новгород",
+    imgSrc: "https://api.dicebear.com/7.x/initials/svg?seed=YuliyaP&backgroundColor=4c1d95&textColor=ffffff",
   },
   {
     tempId: 16,
     testimonial:
-      "Благотворительные забеги Stride Collective придают нашим километрам смысл. Мы бежим не только для себя — мы бежим, чтобы изменить мир к лучшему.",
-    by: "Раиса Грин, чемпион благотворительности",
-    imgSrc: "https://api.dicebear.com/7.x/initials/svg?seed=RaisaGrin&backgroundColor=16a34a&textColor=ffffff",
+      "Готическая поясная сумка с металлическими заклёпками — то, что я искал очень долго. Нигде не мог найти нужного размера и качества. Dark Craft сделали под заказ за две недели.",
+    by: "Максим З., Челябинск",
+    imgSrc: "https://api.dicebear.com/7.x/initials/svg?seed=MaksimZ&backgroundColor=171717&textColor=ffffff",
   },
   {
     tempId: 17,
     testimonial:
-      "Мастер-классы по технике в Stride Collective преобразили мою беговую форму. Я стал быстрее и забыл о травмах благодаря экспертному руководству.",
-    by: "Кирилл Вонг, перфекционист формы",
-    imgSrc: "https://api.dicebear.com/7.x/initials/svg?seed=KirillVong&backgroundColor=2563eb&textColor=ffffff",
+      "Очень понравилось, что можно обсудить всё до мелочей: длину ремня, тип застёжки, цвет нитей. Это настоящий индивидуальный подход. Результат — идеальная вещь под мой стиль.",
+    by: "Алина В., Красноярск",
+    imgSrc: "https://api.dicebear.com/7.x/initials/svg?seed=AlinaV&backgroundColor=6b21a8&textColor=ffffff",
   },
   {
     tempId: 18,
     testimonial:
-      "Виртуальные забеги Stride Collective во время локдауна спасли мой рассудок. Даже когда мы не могли бегать вместе, мы оставались связаны как сообщество.",
-    by: "Александра Фостер, виртуальный воин",
-    imgSrc: "https://api.dicebear.com/7.x/initials/svg?seed=AlexandraFoster&backgroundColor=be185d&textColor=ffffff",
+      "Приятно удивлён скоростью работы — от заявки до готовой сумки прошло 12 дней. При этом качество ни капли не пострадало. Буду рекомендовать всем друзьям.",
+    by: "Евгений К., Омск",
+    imgSrc: "https://api.dicebear.com/7.x/initials/svg?seed=EvgeniyK&backgroundColor=27272a&textColor=ffffff",
   },
   {
     tempId: 19,
     testimonial:
-      "Наставничество в Stride Collective меняет жизни. Опытные бегуны берут новичков под крыло и щедро делятся своей мудростью.",
-    by: "Карлос Мендес, благодарный ученик",
-    imgSrc: "https://api.dicebear.com/7.x/initials/svg?seed=CarlosMendez&backgroundColor=0891b2&textColor=ffffff",
+      "Dark Craft — это не магазин, это мастерская с душой. Здесь тебя слышат, понимают твою эстетику и воплощают её в кожу. Такой подход встречается редко — ценю и уважаю.",
+    by: "Ирина Д., Томск",
+    imgSrc: "https://api.dicebear.com/7.x/initials/svg?seed=IrinaD&backgroundColor=581c87&textColor=ffffff",
   },
 ]
 
